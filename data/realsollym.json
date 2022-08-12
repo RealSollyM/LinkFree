@@ -1,0 +1,33 @@
+{
+  "name": "Real Solly M",
+  "type": "personal",
+  "bio": "Senior Software Engineer at GlobalASP | Founder at Mogen Pty",
+  "avatar": "https://github.com/realsollym.png",
+  "links": [
+    {
+      "name": "Motsoane Global Enterprise (MogenPty)",
+      "url": "https://www.mogen.co.za",
+      "icon": "link"
+    },
+    {
+      "name": "Follow my Open Source on GitHub",
+      "url": "https://github.com/realsollym",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/realsollym",
+      "icon": "twitter"
+    },
+    {
+      "name": "Check my StackOverflow profile",
+      "url": "https://stackoverflow.com/users/1168597/realsollym",
+      "icon": "stackoverflow"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://linkedin.com/in/realsollym",
+      "icon": "linkedin"
+    }
+  ]
+}
